@@ -1,2 +1,1 @@
-# tictactoe
-Game we love to play
+Developed an interactive and dynamic Tic-Tac-Toe game as an early demonstration of programming abilities, showcasing initiative and self-driven learning. This console-based application stands as a testament to proactive problem-solving, logical reasoning, and software development skills before formal education. Implemented in C/C++, the project exhibits foundational understanding of programming concepts and algorithms.
